@@ -18,6 +18,12 @@ Insert this link tag in `<head>` element
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Box Shadow</title>
    </head>
+   <style>
+    .box{
+       width: 100px;
+       height:100px;
+    }
+  </style>
    <body>
        <div class="box"><div>
          
